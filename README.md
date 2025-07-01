@@ -18,6 +18,7 @@ Write a C program that run on Ubuntu 22 with some function:
         Last time edited
 
 Approach:
+
  -List files in the current directory
 
     Use: opendir(), readdir(), closedir()
